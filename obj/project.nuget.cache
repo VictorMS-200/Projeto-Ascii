@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Bg7A2W6HWXs=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lusto\\RiderProjects\\Projeto_Ascii\\Projeto_Ascii.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lusto\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.10\\microsoft.aspnetcore.openapi.9.0.10.nupkg.sha512",
+    "C:\\Users\\lusto\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512",
+    "C:\\Users\\lusto\\.nuget\\packages\\scalar.aspnetcore\\2.9.0\\scalar.aspnetcore.2.9.0.nupkg.sha512",
+    "C:\\Users\\lusto\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\9.0.6\\swashbuckle.aspnetcore.swaggerui.9.0.6.nupkg.sha512"
+  ],
+  "logs": []
+}
